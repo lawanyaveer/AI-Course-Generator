@@ -127,8 +127,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - React and Node.js communities
 - All contributors who help improve this project
 
-## 📧 Contact
-
-Your Name - [@manas-lohe](https://www.linkedin.com/in/manas-lohe-974348220/)
-
-Project Link: [https://github.com/Manaslohe/AI-Course-Generator](https://github.com/Manaslohe/AI-Course-Generator)
